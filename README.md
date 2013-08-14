@@ -64,6 +64,5 @@
 [Twitter timeline scalability](http://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 [Scalling Twitter making Twitter 10000 percent faster](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster)
 
-
-
+[97 Things Every Software Architect Should Know](http://97things.oreilly.com/wiki/index.php/97_Things_Every_Software_Architect_Should_Know_-_The_Book)
 
