@@ -51,3 +51,17 @@
 
 [C Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 
+# AdWords
+[Google](http://www.google.com/ads/learn/)
+[The Opportunities Tab: Custom tips, just for you](http://www.google.com/ads/learn/market-online/videos/opportunities-tab-intro.html)
+[How to build the best keyword list](https://support.google.com/adwords/answer/2453981?hl=en)
+
+# Architecture
+
+[The architecture Twitter uses to deal with 150M active users](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html)
+[Twitter timeline scalability](http://www.infoq.com/presentations/Twitter-Timeline-Scalability)
+[Scalling Twitter making Twitter 10000 percent faster](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster)
+
+
+
+
