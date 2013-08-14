@@ -58,6 +58,8 @@
 
 # Architecture
 
+[The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
 [The architecture Twitter uses to deal with 150M active users](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html)
 [Twitter timeline scalability](http://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 [Scalling Twitter making Twitter 10000 percent faster](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster)
