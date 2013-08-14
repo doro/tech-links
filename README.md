@@ -1,7 +1,7 @@
-Sites for learning programming
-http://lambda-the-ultimate.org/node/2
+# Sites for learning programming
+[lambda the ultimate](http://lambda-the-ultimate.org/node/2)
 
-http://www.quora.com/Learning-to-Program/What-are-the-best-sites-for-learning-programming
+[Quora - best sites for learning programming](http://www.quora.com/Learning-to-Program/What-are-the-best-sites-for-learning-programming)
 
 [LaunchAcademy.co](LaunchAcademy.co)
 
