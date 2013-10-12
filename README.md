@@ -99,9 +99,13 @@ http://www.slideshare.net/cowboyd/ruby-ci-withjenkins
 
 # Programming for Kids
 [ACS Logo for mac OS X](http://www.alancsmith.co.uk/logo/)
+
 [Turtle Academy](http://turtleacademy.com/)
+
 [Scratch, by MIT](http://scratch.mit.edu/)
+
 [Game Star Mechanic](http://gamestarmechanic.com/)
+
 
 # Design Principles
 [SOLID](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
