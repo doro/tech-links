@@ -98,7 +98,13 @@ http://www.slideshare.net/cowboyd/ruby-ci-withjenkins
 [Art of Assembly](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
 
 # Programming for Kids
+[ACS Logo for mac OS X](http://www.alancsmith.co.uk/logo/)
 [Turtle Academy](http://turtleacademy.com/)
 [Scratch, by MIT](http://scratch.mit.edu/)
 [Game Star Mechanic](http://gamestarmechanic.com/)
+
+# Design Principles
+[SOLID](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+[GRASP](http://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+[LSP](http://en.wikipedia.org/wiki/Liskov_substitution_principle)
 
