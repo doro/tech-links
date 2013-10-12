@@ -108,7 +108,10 @@ http://www.slideshare.net/cowboyd/ruby-ci-withjenkins
 
 
 # Design Principles
-[SOLID](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-[GRASP](http://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+[SOLID](http://en.wikipedia.org/wiki/SOLID)
+
+[GRASP](http://en.wikipedia.org/wiki/GRASP)
+
 [LSP](http://en.wikipedia.org/wiki/Liskov_substitution_principle)
+
 
