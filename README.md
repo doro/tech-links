@@ -97,6 +97,11 @@ http://www.slideshare.net/cowboyd/ruby-ci-withjenkins
 # Assembly
 [Art of Assembly](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
 
+# BI
+[Star Schema](http://en.wikipedia.org/wiki/Star_schema)
+[Star Schema 2](http://www.learndatamodeling.com/star.php#.UijpCmRrYaf)
+[Data Mart](http://en.wikipedia.org/wiki/Data_mart)
+
 # Programming for Kids
 [ACS Logo for mac OS X](http://www.alancsmith.co.uk/logo/)
 
