@@ -110,6 +110,8 @@ http://www.slideshare.net/cowboyd/ruby-ci-withjenkins
 
 [Urban Airship API](http://docs.urbanairship.com/reference/index.html)
 
+[WordPress APIs](http://codex.wordpress.org/WordPress_APIs)
+
 
 # BI
 [Star Schema](http://en.wikipedia.org/wiki/Star_schema)
