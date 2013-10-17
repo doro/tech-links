@@ -97,12 +97,17 @@ http://www.slideshare.net/cowboyd/ruby-ci-withjenkins
 # Assembly
 [Art of Assembly](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
 
-APIs
+#APIs
 [Facebook Graph API](https://developers.facebook.com/docs/reference/api/)
+
 [Twitter API](https://dev.twitter.com/docs/api/1.1)
+
 [Github API](http://developer.github.com/v3/)
+
 [Heroku API](https://devcenter.heroku.com/articles/platform-api-reference)
+
 [Stripe API](https://stripe.com/docs/api)
+
 [Urban Airship API](http://docs.urbanairship.com/reference/index.html)
 
 
