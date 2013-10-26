@@ -52,6 +52,7 @@
 [Learn Python The Hard Way](http://learnpythonthehardway.org/)
 
 [C Learn C The Hard Way](http://c.learncodethehardway.org/book/)
+[Stanford - Programming Abstractions in C++](http://www.stanford.edu/class/cs106b/)
 
 # AdWords
 [Google](http://www.google.com/ads/learn/)
