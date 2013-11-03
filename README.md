@@ -54,6 +54,7 @@
 [C Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 
 [Stanford - Programming Abstractions in C++](http://www.stanford.edu/class/cs106b/)
+[From Novice To Employable](http://howtocode.io/)
 
 # AdWords
 [Google](http://www.google.com/ads/learn/)
