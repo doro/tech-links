@@ -55,6 +55,10 @@
 
 [Yet another c tutorial](http://cocoadevcentral.com/articles/000081.php)
 
+[Learn Objective C](http://cocoadevcentral.com/d/learn_objectivec/)
+
+[Learn Cocoa](http://cocoadevcentral.com/)
+
 [Stanford - Programming Abstractions in C++](http://www.stanford.edu/class/cs106b/)
 
 [From Novice To Employable](http://howtocode.io/)
