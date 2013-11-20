@@ -53,6 +53,8 @@
 
 [C Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 
+[Yet another c tutorial](http://cocoadevcentral.com/articles/000081.php)
+
 [Stanford - Programming Abstractions in C++](http://www.stanford.edu/class/cs106b/)
 
 [From Novice To Employable](http://howtocode.io/)
