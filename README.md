@@ -63,6 +63,13 @@
 
 [From Novice To Employable](http://howtocode.io/)
 
+[Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
+
+# CSS
+[Fluid Grids](http://alistapart.com/article/fluidgrids)
+
+[Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+
 # AdWords
 [Google](http://www.google.com/ads/learn/)
 [The Opportunities Tab: Custom tips, just for you](http://www.google.com/ads/learn/market-online/videos/opportunities-tab-intro.html)
