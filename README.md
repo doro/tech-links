@@ -70,6 +70,9 @@
 
 [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
 
+[Responsive Design: Viewport Meta Tag](http://www.paulund.co.uk/understanding-the-viewport-meta-tag)
+
+
 # AdWords
 [Google](http://www.google.com/ads/learn/)
 [The Opportunities Tab: Custom tips, just for you](http://www.google.com/ads/learn/market-online/videos/opportunities-tab-intro.html)
