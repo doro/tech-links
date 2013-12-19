@@ -110,6 +110,19 @@ http://ruby5.envylabs.com/episodes/236-episode-232-december-20th-2011/stories/20
 http://artsy.github.io/blog/2012/05/27/using-jenkins-for-ruby-and-ruby-on-rails-teams/
 http://www.slideshare.net/cowboyd/ruby-ci-withjenkins
 
+# Unicorn
+[Setup Nginx With Unicorn](http://sirupsen.com/setting-up-unicorn-with-nginx/)
+
+[Unicorn and Nginx conf](https://github.com/defunkt/unicorn/blob/master/examples/nginx.conf)
+
+[Unicorn is Unix](http://tomayko.com/writings/unicorn-is-unix)
+
+[Unicorn Design](http://unicorn.bogomips.org/DESIGN.html)
+
+[Twitter on unicorn](https://blog.twitter.com/2010/unicorn-power)
+
+[Unicorn Signals](http://unicorn.bogomips.org/SIGNALS.html)
+
 
 # Heroku
 [Reference](https://devcenter.heroku.com/categories/reference)
