@@ -163,6 +163,8 @@ http://www.slideshare.net/cowboyd/ruby-ci-withjenkins
 # Algorithms
 [Counting Sort](http://en.wikipedia.org/wiki/Counting_sort)
 
+[Heap Sort](http://en.wikipedia.org/wiki/Heapsort)
+
 # Design Principles
 [SOLID](http://en.wikipedia.org/wiki/SOLID)
 
