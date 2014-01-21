@@ -100,6 +100,11 @@ http://railscasts.com/episodes/267-coffeescript-basics
 
 http://ontwik.com/javascript/jeremy-ashkenas-coffeescript-for-the-well-rounded-rubyist/
 
+
+# Backbone.js
+[backbone patterns])http://ricostacruz.com/backbone-patterns/)
+
+
 # Continuous Integration
 [Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins)
 [Jenkins Ruby Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Jenkins+plugin+development+in+Ruby)
