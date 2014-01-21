@@ -102,7 +102,7 @@ http://ontwik.com/javascript/jeremy-ashkenas-coffeescript-for-the-well-rounded-r
 
 
 # Backbone.js
-[backbone patterns])http://ricostacruz.com/backbone-patterns/)
+[backbone patterns](http://ricostacruz.com/backbone-patterns/)
 
 
 # Continuous Integration
