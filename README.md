@@ -65,6 +65,10 @@
 
 [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 
+
+[Pragmatic Programmer Tips](http://pragmatictips.com/)
+
+
 # CSS
 [Fluid Grids](http://alistapart.com/article/fluidgrids)
 
