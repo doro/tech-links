@@ -76,6 +76,10 @@
 
 [Responsive Design: Viewport Meta Tag](http://www.paulund.co.uk/understanding-the-viewport-meta-tag)
 
+[effective scala](http://twitter.github.io/effectivescala/)
+
+[scala school](http://twitter.github.io/scala_school/)
+
 
 # AdWords
 [Google](http://www.google.com/ads/learn/)
