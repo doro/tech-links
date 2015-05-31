@@ -1,4 +1,8 @@
 # light reading
+http://nshipster.com/the-death-of-cocoa/
+
+http://www.damninteresting.com/who-wants-to-be-a-thousandaire/
+https://plus.google.com/101584889282878921052/posts/Fni6x2TTeaS
 http://www.objc.io/issue-22/dropbox.html
 http://www.consumers.org.il/category/guide-to-israeli-health-insurance
 http://www.consumers.org.il/?catid={C8DF43BF-F804-4D3B-BDEB-4E072EC4C38E}&itemid={FC8265F3-8444-4A6B-8EC3-57E2F1DE66C4}
@@ -73,6 +77,15 @@ http://en.wikipedia.org/wiki/Translation_unit_(programming)
 https://blog.feabhas.com/tag/translation-unit/
 http://www.zdziarski.com/blog/?p=4002
 
+# iOS Game Development
+http://www.spritebuilder-book.com/
+http://cocos2d.org/
+http://www.cocos2d-x.org/
+http://www.cocos2d-iphone.org/
+https://github.com/cocos2d
+http://cocos2d.spritebuilder.com/
+
+
 # ReactJS
 http://ricostacruz.com/cheatsheets/react.html
 
@@ -113,8 +126,15 @@ http://jlongster.com/First-Impressions-using-React-Native
 ECMAScript 6: https://github.com/lukehoban/es6features
 https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/
 WebGL http://webglfundamentals.org/
-
+http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/
 HOMER – Bootstrap AngularJS WebApp Theme: http://bootemplates.com/2015/02/download-homer-bootstrap-angularjs-webapp-theme/
+
+
+# JavaScript - ECMA 6
+https://leanpub.com/understandinges6/read/
+https://github.com/lukehoban/es6features/blob/master/README.md
+https://developer.mozilla.org/en/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla
+
 
 # JavaScript Object Model:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
@@ -396,6 +416,8 @@ https://github.com/graphite-project/carbon
 https://github.com/graphite-project/graphite-web
 
 # iOS Swift:
+http://www.xcelme.com/latest-videos/
+
 http://teamtreehouse.com/tracks/ios-development-with-swift
 http://fuckingblocksyntax.com/
 https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/MixandMatch.html#//apple_ref/doc/uid/TP40014216-CH10-XID_76
