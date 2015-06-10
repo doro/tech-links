@@ -1,6 +1,16 @@
 # light reading
-http://nshipster.com/the-death-of-cocoa/
-
+http://david-smith.org/blog/2015/06/01/start-to-finish-building-an-app/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_201
+http://www.apple.com/live/2015-june-event/
+https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/ObjectMutability/ObjectMutability.html
+http://elm-lang.org/learn/Architecture.elm
+https://www.youtube.com/watch?v=I6mXJwFQ1YYhttps://open.bufferapp.com/remote-
+work/?utm_content=bufferaa5a2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+https://www.codeschool.com/screencasts/founder-s-talk-part-3
+http://blakemasters.com/post/21869934240/peter-thiels-cs183-startup-class-7-notes-essay
+http://www.reinventingorganizations.com/watch--listen.html
+https://medium.com/@danshapiro/startup-ceo-imposter-135638635fe6
+https://medium.com/@folsen/accepting-payments-is-getting-harder-1b2f342e4ea
+http://www.wired.com/2009/10/ff_demandmedia/all/1
 http://www.damninteresting.com/who-wants-to-be-a-thousandaire/
 https://plus.google.com/101584889282878921052/posts/Fni6x2TTeaS
 http://www.objc.io/issue-22/dropbox.html
@@ -26,7 +36,6 @@ blog.confluent.io/2015/02/25/stream-data-platform-1/
 http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/
 http://www.aerogrammestudio.com/2015/02/24/stephen-king-everything-you-need-to-know-about-writing-successfully
 http://blogs.haaretz.co.il/orikatz/518/
-https://aphyr.com/posts/317-call-me-maybe-elasticsearch
 http://www.infoq.com/presentations/environment-concepts?utm_source=infoqEmail&utm_medium=WeeklyNL_EditorialContentDevelopment&utm_campaign=02242015news
 http://microservices.io/patterns/microservices.html
 http://microservices.io/patterns/apigateway.html
@@ -76,6 +85,139 @@ http://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/
 http://en.wikipedia.org/wiki/Translation_unit_(programming)
 https://blog.feabhas.com/tag/translation-unit/
 http://www.zdziarski.com/blog/?p=4002
+https://code.facebook.com/posts/1433093613662262/-under-the-hood-facebook-s-cold-storage-system-/?hn=1
+http://www.getabstract.com/en/
+http://blog.twitter.stfi.re/2015/flying-faster-with-twitter-heron?sf=qykyn&utm_content=buffer586e7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+http://khanlou.com/2015/02/prefer-composition-to-inheritance/
+http://khanlou.com/2015/02/consistency-is-a-virtue/
+http://khanlou.com/2015/04/the-object-graph/
+http://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed
+http://blog.500tech.com/is-reactjs-fast/
+http://www.w3.org/TR/html5/forms.html#states-of-the-type-attribute
+http://microformats.org/wiki/geo
+http://sixrevisions.com/html/semantic-html-web-content/
+http://en.wikipedia.org/wiki/Actor_model
+https://idkn.wordpress.com/2013/02/25/my-database-free-application-lecture/
+
+http://haotzarsheli.mof.gov.il/Calculators/Pages/Budget-Management.aspx
+
+http://www.rackspacestartups.com.php54-2.dfw1-2.websitetestlink.com/startup-conversation-with-steve-woz-wozniak/
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ErrorHandling/ErrorHandling.html
+
+# Elastic Search
+https://aphyr.com/posts/317-call-me-maybe-elasticsearch
+http://evertrue.github.io/blog/2014/11/16/3-performance-tuning-tips-for-elasticsearch/
+https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/
+
+
+# AdBeat
+http://www.adbeat.com/blog/business-of-display-lead-generation-for-contractors/
+https://www.adbeat.com/blog/the-business-of-display-part-2-viral-quiz-sites-and-click-arbitrage/
+https://www.adbeat.com/blog/the-business-of-display-part-3-nutraceuticals/
+https://www.adbeat.com/blog/the-business-of-display-part-4-information-products/
+https://www.adbeat.com/blog/the-business-of-display-part-5-affiliate-review-sites/
+
+http://www.problogger.net/archives/2015/06/01/how-to-use-quizzes-and-facebook-to-build-your-list-fast/
+https://www.adbeat.com/blog/7-landing-page-styles-that-work-with-paid-advertising/
+https://www.adbeat.com/blog/video-quiz-landing-pages/
+https://www.adbeat.com/blog/case-study-how-three-large-advertisers-buy-display-traffic-on-mobile/
+https://www.adbeat.com/blog/the-6-elements-of-landing-page-persuasion/
+https://www.adbeat.com/blog/write-higher-converting-display-ads-with-these-8-formulas/
+https://www.adbeat.com/blog/3-little-known-ways-to-increase-ads-clickthrough-rates/
+
+
+
+# MicroServices
+https://medium.com/aws-activate-startup-blog/using-containers-to-build-a-microservices-architecture-6e1b8bacb7d1
+https://blog.yourkarma.com/building-microservices-at-karma
+https://blog.giantswarm.io/getting-started-with-microservices-using-ruby-on-rails-and-docker/
+http://blog.arkency.com/2014/07/microservices-72-resources/
+http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/
+https://news.ycombinator.com/item?id=7382390
+https://rclayton.silvrback.com/failing-at-microservices
+https://wondermall.dapulse.com/posts/2741175?utm_campaign=new_item_post&utm_medium=email&utm_source=notification&utm_term=reply
+http://en.wikipedia.org/wiki/Microservices
+http://www.infoq.com/presentations/netflix-ipc
+http://martinfowler.com/articles/microservices.html
+http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
+http://microservices.io/patterns/microservices.html
+http://www.quora.com/Which-one-is-better-for-durable-messaging-with-good-query-features-RabbitMQ-or-Kafka
+http://kafka.apache.org/
+http://kafka.apache.org/documentation.html
+
+
+# Avi Ofer
+http://ha-pinkas.co.il/?p=19914
+
+# Games
+https://www.ubisoft.com/en-GB/game/rayman-legends/
+https://www.ubisoft.com/en-GB/game/grow-home/
+https://itunes.apple.com/us/app/flurf-free/id875493756?mt=8&ign-mpt=uo%3D4
+https://itunes.apple.com/us/app/spring-ninja/id963980545?mt=8
+
+
+
+# Medium
+https://medium.com/@oreillyradar/how-the-new-hardware-movement-is-driving-the-internet-of-things-250c05fa203d
+https://medium.com/@BrandonTSpringer/i-m-noticing-3trends-among-all-the-people-criticizing-this-article-1-few-of-them-have-written-97d211b88324
+https://medium.com/@kevinmaney/maybe-give-a-little-thought-to-the-supposed-stability-and-desirability-of-a-full-time-job-in-today-effad08bdc12
+https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4
+https://medium.com/frankly-speaking/frankly-speaking-how-i-found-purpose-38fe929e70bb
+https://medium.com/@ungewissen/the-naked-people-in-your-ipod-f770a27fdb59
+
+# Focus
+http://fizzle.co/sparkline/focus-better-quit-more-often
+http://www.wikihow.com/Focus-on-One-Thing
+http://focusmanifesto.com/single-tasking/
+http://thestorycoach.net/2013/01/26/5-reasons-to-write-one-project-at-a-time/
+http://www.makealivingwriting.com/productive-writer-one-simple/
+http://www.thinkentrepreneurship.com/top-10-tips-to-get-focused/
+http://www.healthyplace.com/blogs/adultadhd/2010/04/adhd-how-do-you-pick-one-project-to-work-on-when-there-are-so-many/
+
+
+# Tools
+https://pusher.com/
+https://github.com/EverythingMe/redash
+https://sensuapp.org/
+
+
+
+# indie web
+http://indiewebify.me/
+https://indiewebcamp.com/
+http://en.wikipedia.org/wiki/IndieWeb
+http://www.slate.com/blogs/future_tense/2014/04/25/indiewebcamps_create_tools_for_a_new_internet.html
+
+# NSHipster
+http://nshipster.com/the-death-of-cocoa/
+http://nshipster.com/cocoapods/
+http://nshipster.com/afnetworking-2/
+http://nshipster.com/reactivecocoa/
+
+# SEO
+https://www.youtube.com/watch?v=3P-m2cBCJSk
+
+# data mining / machine learning
+http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
+http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+http://work.caltech.edu/lectures.html#lectures
+
+# DevOps
+https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts
+https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
+https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server
+
+# DevOps - docker
+https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-scheduling-and-orchestration
+https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-overview-of-containerization
+
+https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started
+https://www.digitalocean.com/community/tutorials/how-to-deploy-wordpress-with-shipyard-on-ubuntu-14-04
+http://shipyard-project.com/
+
 
 # iOS Game Development
 http://www.spritebuilder-book.com/
@@ -88,6 +230,9 @@ http://cocos2d.spritebuilder.com/
 
 # ReactJS
 http://ricostacruz.com/cheatsheets/react.html
+http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications
+https://facebook.github.io/react/docs/tutorial.html
+https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 
 # FlexBox (CSS)
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -135,6 +280,8 @@ https://leanpub.com/understandinges6/read/
 https://github.com/lukehoban/es6features/blob/master/README.md
 https://developer.mozilla.org/en/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla
 
+# JavaScript - TypeScript
+http://www.typescriptlang.org/
 
 # JavaScript Object Model:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
@@ -232,8 +379,10 @@ http://www.slideshare.net/onoaonoa/cs193p-lecture-5-view-animation
 
 # iOS Objective C Run Time
 https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008048
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008048
 
 # iOS
+http://www.infoq.com/presentations/facebook-ios-architecture
 http://www.objc.io/issue-1/lighter-view-controllers.html
 http://cocoasamurai.blogspot.ca/2013/03/basic-mvvm-with-reactivecocoa.html
 http://www.teehanlax.com/blog/krush-ios-architecture/
@@ -286,7 +435,10 @@ http://stackoverflow.com/questions/14533134/where-is-local-variable-allocated-he
 http://www-ee.eng.hawaii.edu/~tep/EE160/Book/chap14/subsection2.1.1.8.html
 https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-objective-c.html
 
+
 # python
+http://pgbovine.net/cpython-internals.htm - CPython internals: A ten-hour codewalk through the Python interpreter source code
+
 https://docs.python.org/3/howto/functional.html
 http://effbot.org/zone/python-with-statement.htm
 https://www.python.org/dev/peps/pep-0343/
@@ -353,8 +505,13 @@ http://www.cimgf.com/2010/05/02/my-current-prefix-pch-file/
 # ruby
 https://www.youtube.com/watch?v=ghLCtCwAKqQ
 http://blog.phusion.nl/2010/03/24/objective-c-for-ruby-developers-un-not-so-petit-interlude-1/
+https://medium.com/@KamilLelonek/how-to-delegate-methods-in-ruby-a7a71b077d99
+http://www.citrine.io/blog/2015/5/26/asynchronous-data-processing-with-ruby-rabbitmq-and-sneakers
+http://getstream.io/
 
 # Math 
+https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego
+http://ocw.uci.edu/courses/math_1a1b_precalculus.html
 https://medium.com/@warrenhenning/a-software-engineers-adventures-in-learning-mathematics-62140c59e5c
 http://ocw.uci.edu/courses/math_1a1b_precalculus.html
 
@@ -416,7 +573,26 @@ https://github.com/graphite-project/carbon
 https://github.com/graphite-project/graphite-web
 
 # iOS Swift:
+http://swiftdoc.org/
+https://developer.apple.com/swift/resources/
+
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html#//apple_ref/doc/uid/TP40014097-CH7-ID285
+
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TypeCasting.html#//apple_ref/doc/uid/TP40014097-CH22-ID343
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Expressions.html#//apple_ref/doc/uid/TP40014097-CH32-ID383
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html#//apple_ref/doc/uid/TP40014097-CH20-ID55
+
+https://realm.io/news/swift-summit/
+https://realm.io/news/swift-summit-chris-eidhof-functional-view-controllers/
+https://realm.io/news/russ-bishop-unsafe-swift/
+
+http://nsbliss.com/objective-c-is-still-c-the-race-belongs-to-the-swift/
+http://tech.ustwo.com/2014/10/20/designing-adaptive-layouts-for-iphone-6-plus/
+http://tech.ustwo.com/2015/02/19/our-first-swift-project/
+
+
 http://www.xcelme.com/latest-videos/
+http://www.aidanf.net/posts/an-introduction-to-swift-for-ruby-developers?utm_source=rubyweekly&utm_medium=email
 
 http://teamtreehouse.com/tracks/ios-development-with-swift
 http://fuckingblocksyntax.com/
@@ -469,6 +645,10 @@ http://meravs.com/%D7%94%D7%99%D7%99%D7%AA-%D7%A2%D7%A6%D7%9C%D7%9F-%D7%95%D7%A7
 
 https://www.youtube.com/watch?v=L9Cj0cMJNbs
 
+# Torrent
+http://www.ghacks.net/2010/06/05/what-is-a-magnet-link-and-how-does-it-differ-from-torrents/
+http://superuser.com/questions/199970/whats-the-difference-between-a-torrent-file-and-a-magnet-link
+
 
 # Cloud Computing
 http://cassandra.apache.org/
@@ -494,6 +674,13 @@ http://www.curse.com/worlds/minecraft/224139-diversity-2
 http://deis.io/overview/
 https://github.com/deis/example-python-flask
 https://coreos.com/
+
+# WordPress
+http://premium.wpmudev.org/manuals/wpmu-manual-2/adding-languages/
+http://premium.wpmudev.org/manuals/wpmu-manual-2/changing-themes-sitewide
+http://premium.wpmudev.org/blog/ultimate-guide-multisite/
+https://wordpress.org/plugins/wordpress-mu-domain-mapping/
+
 
 # blogs
 http://www.jasonshen.com/
