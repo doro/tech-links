@@ -1,4 +1,316 @@
+2015TheRoitmans
+
+feature/104431254-DR-post-checkout-message
+feature/<story #>-<coder initials>-<story name>
+
+# November 2015
+http://www.themarker.com/markets/marketmoney/1.2754060
+http://www.haaretz.co.il/blogs/amirascher/1.2759328
+http://www.haaretz.co.il/einayim/1.2763906
+
+https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html
+https://frontendmasters.com/
+
+http://www.reactive.io/tips/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/
+http://josecasanova.com/blog/how-to-build-a-tvos-application-for-apple-tv-tutorial/
+http://blog.teamtreehouse.com/why-i-dont-use-interface-builder
+https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/
+http://www.coreanimator.com/#animatecode
+http://blog.zats.io/2015/08/27/copy-vs-retain/
+https://www.loggly.com/ultimate-guide/topic/systemd/
+https://medium.com/@moskov
+
+
+http://www.lynda.com/AngularJS-training-tutorials/1696-0.html
+http://www.lynda.com/Objective-C-tutorials/Objective-C-Essential-Training/143328-2.html
+
+http://www.dartmouth.edu/~bknauff/dwebd/2004-02/DB-intro.pdf
+https://www.google.com/atap/project-tango/
+http://developers.lyst.com/2014/02/22/color-detection/
+http://developers.lyst.com/2014/02/22/color-detection/
+http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
+http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
+http://www.ideamarket.com/
+http://blog.jaredfriedman.com/2015/09/15/why-i-wouldnt-use-rails-for-a-new-company/
+http://blog.jaredfriedman.com/
+https://medium.com/the-wtf-economy/we-ve-got-this-whole-unicorn-thing-all-wrong-3f3d108cc71d#.9w8gmt2fw
+http://www.unwrappedswift.com/
+https://medium.com/@genadyo
+http://nsbrief.com/147-genady-okrain/
+https://speakerdeck.com/genadyo/moving-your-ios-app-from-parse-to-cloudkit
+https://speakerdeck.com/genadyo/build-your-own-framework
+http://www.html5rocks.com/en/tutorials/file/filesystem/
+https://code.facebook.com/posts/1505962329687926/flow-a-new-static-type-checker-for-javascript/
+http://flowtype.org/
+http://www.slideshare.net/alinone/from-push-technology-to-the-realtime-web
+https://en.wikipedia.org/wiki/Semaphore_(programming)
+https://en.wikipedia.org/wiki/Abstraction_layer
+https://www.google.co.il/search?q=bayesian%20spam%20filter&ei=UUkvVob-IcisUZfao4AN&emsg=NCSR&noj=1
+https://en.wikipedia.org/wiki/A*_search_algorithm
+https://en.wikipedia.org/wiki/Law_of_Demeter
+
+# Books
+Design Patterns in Ruby
+Refactoring: Ruby Edition: Ruby Edition
+Practical Object-Oriented Design in Ruby: An Agile Primer (
+Effective Ruby: 48 Specific Ways to Write Better Ruby
+Eloquent Ruby 
+AngularJS: Novice to Ninja
+
+# October 2015
+
+https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492#.zagv9ggs5
+https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html
+
+http://developers.lyst.com/2014/02/22/color-detection/
+http://dbmsmusings.blogspot.co.il/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html
+
+https://www.oculus.com/en-us/blog/introducing-michael-abrash-oculus-chief-scientist/
+
+http://www.gamedev.net/page/resources/_/technical/general-programming/a-journey-through-the-cpu-pipeline-r3115
+
+https://www.google.com/atap/project-tango/
+https://medium.com/i-m-h-o/good-and-bad-reasons-to-become-an-entrepreneur-decf0766de8d#.71aj8z8yz
+http://blog.samaltman.com/advice-for-ambitious-19-year-olds
+
+http://engineering.widen.com/blog/future-of-the-web-react-falcor/
+http://perspectives.mvdirona.com/2015/10/arm-server-market/
+
+http://radar.oreilly.stfi.re/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html
+
+How to fix a bad ui - http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack
+
+Libraries Used in the Top 100 iOS Apps -https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7#.1cflq2p74
+
+NodeJS on any website - http://blog.tonicdev.com/2015/09/30/embedded-tonic.html
+fogbugz lost to jira - http://movingfulcrum.com/why-fogbugz-lost-to-jira/
+
+electron - http://electron.atom.io/
+
+
+# HTML5
+easy content org - https://www.paciellogroup.com/blog/2015/09/easy-content-organisation-with-html5/
+
+FB iOS testing - https://github.com/facebook/WebDriverAgent
+
+# ReactNative
+geting started - https://facebook.github.io/react-native/docs/getting-started.html#content
+ui explorer - https://github.com/facebook/react-native/tree/master/Examples/UIExplorer
+animations - https://facebook.github.io/react-native/docs/animations.html
+ES6 and React Native - https://facebook.github.io/react-native/docs/javascript-environment.html#content
+Native Modules (iOS) - https://facebook.github.io/react-native/docs/native-modules-ios.html#content
+Native UI (iOS) - https://facebook.github.io/react-native/docs/native-components-ios.html#content
+3rd-Party Components - https://react.parts/native
+
+Presentations
+http://www.slideshare.net/barakcohen1/introduction-to-react-native-redux
+http://www.slideshare.net/tlv-ios-dev/pieter-de-baets-an-introduction-to-react-native
+http://www.slideshare.net/ModusJesus/intro-to-react-native
+http://www.slideshare.net/arttrityak/react-native-52196237
+
+Este: Starter kit for ReactJS + React Native - https://github.com/este/este
+Redux - http://rackt.org/redux/
+Facebook Relay - https://facebook.github.io/relay/
+GraphQL in Python: - https://github.com/graphql-python/graphql-relay-py
+
+The Slack Desktop apps are built using diverse technologies such as Electron, io.js, ES6, MacGap, RxJS, and Objective-C.
+
+https://hbr.org/2015/08/productivity-is-soaring-at-top-firms-and-sluggish-everywhere-else
+http://jordan-wright.com/blog/2015/09/30/how-to-download-a-list-of-all-registered-domain-names/
+
+# async
+http://tavendo.com/blog/post/going-asynchronous-from-flask-to-twisted-klein/
+http://falconframework.org/
+http://bottlepy.org/docs/dev/async.html
+tornado - http://www.tornadoweb.org/en/stable/guide/async.html
+tornado - https://github.com/tornadoweb/tornado/tree/stable/demos/chat
+Long_polling - https://en.wikipedia.org/wiki/Push_technology#Long_polling
+WebSocket - https://en.wikipedia.org/wiki/WebSocket
+Asynchronous IO - https://en.wikipedia.org/wiki/Asynchronous_I/O
+
+# Ruby, threads
+https://en.wikipedia.org/wiki/Global_interpreter_lock
+http://www.rubyinside.com/does-the-gil-make-your-ruby-code-thread-safe-6051.html
+https://www.igvita.com/2008/11/13/concurrency-is-a-myth-in-ruby/
+http://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil
+
+# iOS
+Hello, declarative world - http://codon.com/hello-declarative-world
+
+swift 2 patterns - https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Patterns.html
+
+MVVM Swift - http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/
+
+
+# linux file system
+http://www.tldp.org/LDP/intro-linux/html/sect_03_01.html
+https://www.freebsd.org/doc/handbook/zfs.html
+
+#linux
+intro - http://www.tldp.org/LDP/intro-linux/html/index.html 
+
+# AngularJS
+angular styleguide - https://github.com/johnpapa/angular-styleguide
+https://material.angularjs.org/latest/
+
+# AngularJS - tutorials
+https://www.codecademy.com/learn/learn-angularjs
+https://mva.microsoft.com/en-us/training-courses/introduction-to-angularjs-8682?l=qJ8KNLH1_1804984382
+http://www.pluralsight.com/courses/angularjs-fundamentals
+https://www.udemy.com/angularjs/
+https://www.youtube.com/watch?v=M4spK4QeUKY
+http://weblogs.asp.net/dwahlin/the-angularjs-jumpstart-video-training-course-has-been-released
+
+https://www.youtube.com/watch?v=i9MHigUZKEM&spfreload=1
+https://www.udemy.com/angularjs-jumpstart/?couponCode=AJJS-WebWeeklyDiscount
+
+# Flux, flexbox
+https://github.com/facebook/flux
+https://facebook.github.io/flux/
+http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox
+
+# Javascript, ecosystem
+Grunt - https://bocoup.com/weblog/introducing-grunt/
+Grunt - http://gruntjs.com/
+Webpack - https://webpack.github.io/
+Bower - http://bower.io/
+Gulp - https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
+
+http://juristr.com/blog/2014/08/node-grunt-yeoman-bower/
+
+# Email Styling
+https://litmus.com/blog/
+https://litmus.com/blog/understanding-gmail-and-css-part-1
+https://litmus.com/blog/category/tips-resources
+
+
+https://groups.google.com/forum/?hl=en#!topic/racket-users/yjRuIxypUQc
+
+# September 2015
+http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/
+https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0
+http://myleisureapp.com/blog3_details.html
+http://nshipster.com/method-swizzling/
+http://artsy.github.io/blog/2015/09/01/Cocoa-Architecture-Dropped-Design-Patterns/
+http://dmitryfrank.com/articles/js_closures
+http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/
+https://medium.com/swlh/how-to-land-your-first-dev-job-even-if-you-don-t-have-a-cs-degree-e83d08db4615
+https://medium.com/swlh/top-10-frameworks-for-web-development-ed02f2b8124
+https://medium.com/swlh/21-game-changing-new-tools-for-entrepreneurs-startup-founders-b35cb65f8774
+https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86
+https://medium.com/swlh/the-22-books-to-read-before-you-quit-your-job-bc75471ff038
+
+https://littlebitesofcocoa.com/69
+https://www.shinobicontrols.com/blog/ios9-day-by-day-index?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_213
+https://medium.com/stanfy-engineering-practices/do-not-let-your-user-see-spinners-35b824c3ce2f
+http://www.knowstack.com/framework-vs-library-cocoa-ios/
+http://stackoverflow.com/questions/6245761/difference-between-framework-and-static-library-in-xcode4-and-how-to-call-them
+http://www.infoq.com/presentations/j2v8?utm_source=infoqEmail&utm_medium=WeeklyNL_EditorialContentJava&utm_campaign=09082015news&utm_content=b
+https://github.com/steipete/Aspects
+https://library.launchkit.io/on-the-fly-media-upload-processing-with-go-73995ffe10f3
+http://news.mit.edu/2015/first-new-cache-coherence-mechanism-30-years-0910
+
+https://medium.com/swlh/the-psychology-of-numbers-in-design-d6a7a011e8b1
+https://stripe.com/relay
+https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/
+
+
+# August 2015
+http://www.haaretz.co.il/magazine/the-edge/.premium-1.2694380
+http://www.haaretz.co.il/magazine/1.2695510
+
+http://paulgraham.com/name.html
+
+http://flexbox.io/#/
+https://medium.com/@kevincennis/currying-in-javascript-c66080543528
+
+
+http://www.objc.io/issues/2-concurrency/thread-safe-class-design/
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/EncapsulatingData/EncapsulatingData.html
+
+
+# Whisper
+http://graphite.readthedocs.org/en/1.0/whisper.html
+https://github.com/graphite-project/whisper
+
+# Storage
+http://www.druva.com/blog/object-storage-versus-block-storage-understanding-technology-differences/
+http://www.iscsi.com/resources/File-Level-Storage-vs-Block-Level-Storage.asp
+http://searchcloudstorage.techtarget.com/feature/How-an-object-store-differs-from-file-and-block-storage
+https://en.wikipedia.org/wiki/Software-defined_storage
+
+# XCtool
+https://github.com/facebook/xctool
+http://nshipster.com/xctool/
+https://developer.apple.com/library/ios/featuredarticles/XcodeConcepts/Concept-Targets.html
+
+# iOS concurrency
+http://www.objc.io/issues/2-concurrency/low-level-concurrency-apis/
+http://www.drdobbs.com/parallel/use-threads-correctly-isolation-asynch/215900465
+
+http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
+http://unemployable.pen.io/
+
+http://timharford.com/2015/07/its-tough-turning-ideas-into-gold/
+
+http://www.brainpickings.org/2015/07/30/behind-the-trees-neil-gaiman-dream-amanda-palmer/
+
+https://www.wunderlist.com/blog/how-to-launch-your-own-startup-part-5/
+https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html
+https://developer.apple.com/library/mac/documentation/Cocoa/Reference/ObjCRuntimeRef/index.html#//apple_ref/c/func/objc_msgSend
+
+
+http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/
+
+# latest
+https://sites.google.com/a/wondermall.com/documentation/store/products-grid
+
+
+http://startupclass.samaltman.com/courses/lec01/
+http://steveblank.com/category/2-minute-lessons/page/2/
+http://techcrunch.com/2011/02/01/launchrock-rocks-launches/
+http://www.cringely.com/
+http://waynechang.com/how-six-people-built-the-2-mobile-analytics-tool-in-just-a-few-months-full-article/?utm_source=Crashlytics+Customers&utm_campaign=7c760eb322-inside_answers_blog_post_6.10.2015&utm_medium=email&utm_term=0_3330fdbe2e-7c760eb322-98429969
+
+http://inessential.com/hownottocrash
+
+http://tutorials.jenkov.com/ood/understanding-dependencies.html
+http://airspeedvelocity.net/
+
+https://books.google.co.il/books?id=KdsTTKC64qAC&pg=PA218&lpg=PA218&dq=objc+associated+storage+facility&source=bl&ots=qhYi_uXOfF&sig=B79rwz29SGelYggyg8wUOYXcq0k&hl=en&sa=X&ei=vZqZVYW4K8bx-QH5ooLYAg&ved=0CD8Q6AEwBg#v=onepage&q=objc%20associated%20storage%20facility&f=false
+http://nshipster.com/associated-objects/
+http://www.sebastianrehnby.com/blog/2013/01/24/associated-objects-by-example/
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008048-CH1-SW1
+
+http://blog.naturalint.com/the-bi-datawarehouse-choice/
+
+https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/
+https://www.facebook.com/notes/kent-beck/rip-tdd/750840194948847
+
+http://petelacey.tumblr.com/post/32626547077/making-uncle-bob-happy
+https://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html
+https://subvisual.co/posts/20-clean-architecture
+
+https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
+
+
+https://github.com/robbyrussell/oh-my-zsh
+https://github.com/ekampf/dotfiles
+https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+
+
+https://developer.apple.com/videos/wwdc/2015/?id=408
+
+
+
 # light reading
+https://blog.pusher.com/websockets-from-scratch/
+https://en.wikipedia.org/wiki/Real-time_bidding
+http://www.fastcompany.com/3047642/tech-forecast/do-the-simple-thing-first-the-engineering-behind-instagram
+http://geekslop.com/2015/catching-pedophiles-running-seecret-dark-web-tor-honeypot
+https://en.wikipedia.org/wiki/Lossless_compression
+https://en.wikipedia.org/wiki/Lossy_compression
+http://yurichev.com/blog/RSA/
 http://david-smith.org/blog/2015/06/01/start-to-finish-building-an-app/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_201
 http://www.apple.com/live/2015-june-event/
 https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/ObjectMutability/ObjectMutability.html
@@ -16,7 +328,7 @@ https://plus.google.com/101584889282878921052/posts/Fni6x2TTeaS
 http://www.objc.io/issue-22/dropbox.html
 http://www.consumers.org.il/category/guide-to-israeli-health-insurance
 http://www.consumers.org.il/?catid={C8DF43BF-F804-4D3B-BDEB-4E072EC4C38E}&itemid={FC8265F3-8444-4A6B-8EC3-57E2F1DE66C4}
-https://scotch.io/tutorials/angularjs-best-practices-directory-structure
+
 http://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego
 http://www.quora.com/How-old-is-too-old-to-start-a-startup
 http://blakemasters.com/peter-thiels-cs183-startup
@@ -37,8 +349,6 @@ http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/
 http://www.aerogrammestudio.com/2015/02/24/stephen-king-everything-you-need-to-know-about-writing-successfully
 http://blogs.haaretz.co.il/orikatz/518/
 http://www.infoq.com/presentations/environment-concepts?utm_source=infoqEmail&utm_medium=WeeklyNL_EditorialContentDevelopment&utm_campaign=02242015news
-http://microservices.io/patterns/microservices.html
-http://microservices.io/patterns/apigateway.html
 http://cinemascope.mako.co.il/archives/20464
 http://www.joecoin.com/2015/02/crypto-20-and-other-misconceptions.html
 https://sourcegraph.com/blog/live/gopherconindia/111854129512
@@ -91,8 +401,8 @@ http://blog.twitter.stfi.re/2015/flying-faster-with-twitter-heron?sf=qykyn&utm_c
 http://khanlou.com/2015/02/prefer-composition-to-inheritance/
 http://khanlou.com/2015/02/consistency-is-a-virtue/
 http://khanlou.com/2015/04/the-object-graph/
-http://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed
-http://blog.500tech.com/is-reactjs-fast/
+
+
 http://www.w3.org/TR/html5/forms.html#states-of-the-type-attribute
 http://microformats.org/wiki/geo
 http://sixrevisions.com/html/semantic-html-web-content/
@@ -128,6 +438,8 @@ https://www.adbeat.com/blog/3-little-known-ways-to-increase-ads-clickthrough-rat
 
 
 # MicroServices
+https://www.nginx.com/blog/introduction-to-microservices/
+http://www.slideshare.net/Docker/dockercon-sf-2015-enabling-microservices-orbitz
 https://medium.com/aws-activate-startup-blog/using-containers-to-build-a-microservices-architecture-6e1b8bacb7d1
 https://blog.yourkarma.com/building-microservices-at-karma
 https://blog.giantswarm.io/getting-started-with-microservices-using-ruby-on-rails-and-docker/
@@ -144,17 +456,10 @@ http://microservices.io/patterns/microservices.html
 http://www.quora.com/Which-one-is-better-for-durable-messaging-with-good-query-features-RabbitMQ-or-Kafka
 http://kafka.apache.org/
 http://kafka.apache.org/documentation.html
-
-
-# Avi Ofer
-http://ha-pinkas.co.il/?p=19914
-
-# Games
-https://www.ubisoft.com/en-GB/game/rayman-legends/
-https://www.ubisoft.com/en-GB/game/grow-home/
-https://itunes.apple.com/us/app/flurf-free/id875493756?mt=8&ign-mpt=uo%3D4
-https://itunes.apple.com/us/app/spring-ninja/id963980545?mt=8
-
+https://www.youtube.com/watch?v=wgdBVIX9ifA
+http://microservices.io/patterns/microservices.html
+http://microservices.io/patterns/apigateway.html
+https://github.com/mashape/kong
 
 
 # Medium
@@ -202,6 +507,9 @@ http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 http://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 http://work.caltech.edu/lectures.html#lectures
+ruby machine learning - http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification
+python machine learning - http://sebastianraschka.com/Articles/2015_why_python.html
+
 
 # DevOps
 https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts
@@ -226,13 +534,20 @@ http://www.cocos2d-x.org/
 http://www.cocos2d-iphone.org/
 https://github.com/cocos2d
 http://cocos2d.spritebuilder.com/
-
+http://learnopengl.com/
 
 # ReactJS
 http://ricostacruz.com/cheatsheets/react.html
 http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications
 https://facebook.github.io/react/docs/tutorial.html
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+https://builtvisible.com/building-content-in-react/
+http://blog.500tech.com/is-reactjs-fast/
+http://binary-studio.com/2015/08/04/getting-started-with-reactjs/
+
+# ReactJS tutorials
+http://facebook.github.io/react/docs/tutorial.html
+http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 
 # FlexBox (CSS)
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -244,12 +559,16 @@ https://github.com/yahoo/fluxible
 http://www.tuxedojs.org/
 https://news.ycombinator.com/item?id=8930752
 
+# startups
+http://autopsy.io/
+
 # Turing
 http://en.wikipedia.org/wiki/Halting_problem
 http://en.wikipedia.org/wiki/Entscheidungsproblem
 http://en.wikipedia.org/wiki/Universal_Turing_machine
 
 # iOS Weekly
+https://developer.apple.com/videos/wwdc/2015/?id=303
 http://savvyapps.com/blog/how-much-does-app-cost-massive-review-pricing-budget-considerations
 http://www.rogueamoeba.com/audiohijack/?utm_campaign=iOS_Dev_Weekly_Issue_184
 http://inessential.com/2015/02/04/random_swift_things?utm_campaign=iOS_Dev_Weekly_Issue_184
@@ -258,27 +577,41 @@ http://phabricator.org/applications/maniphest/
 http://albertodebortoli.github.io/blog/2015/03/22/notes-on-the-developer-portal-for-dummies/
 http://useyourloaf.com/blog/2014/08/19/xcode-6-objective-c-modernization.html
 http://www.objc.io/issue-7/key-value-coding-and-observing.html
+https://medium.com/ios-os-x-development/deep-linking-search-in-ios-9-will-change-everything-feab0bb7e189
 
 # HTTP
 HTTP 2: http://daniel.haxx.se/http2/
 SPDY: http://dev.chromium.org/spdy/spdy-whitepaper
 
+# Java
+http://algs4.cs.princeton.edu/mac/
+http://docs.oracle.com/javase/tutorial/java/generics/index.html
+kotlin - https://realm.io/news/droidcon-michael-pardo-kotlin/
+
 # JavaScript
+http://eloquentjavascript.net/10_modules.html
 http://jlongster.com/First-Impressions-using-React-Native
 http://dzautner.com/meta-programming-javascript-using-proxies/
 https://code.facebook.com/videos/786462671439502/react-js-conf-2015-keynote-introducing-react-native-/
 http://jlongster.com/First-Impressions-using-React-Native
-ECMAScript 6: https://github.com/lukehoban/es6features
 https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/
 WebGL http://webglfundamentals.org/
 http://www.sitepoint.com/understanding-requirejs-for-effective-javascript-module-loading/
-HOMER – Bootstrap AngularJS WebApp Theme: http://bootemplates.com/2015/02/download-homer-bootstrap-angularjs-webapp-theme/
+http://webpack.github.io/docs/commonjs.html
 
+# JavaScript - AngularJS
+http://www.infoq.com/news/2015/09/angular-migration-ng-upgrade
+http://www.infoq.com/presentations/angularjs-2?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text
+HOMER – Bootstrap AngularJS WebApp Theme: http://bootemplates.com/2015/02/download-homer-bootstrap-angularjs-webapp-theme/
+https://scotch.io/tutorials/angularjs-best-practices-directory-structure
+http://www.shmck.com/webpack-angular-part-1/
 
 # JavaScript - ECMA 6
 https://leanpub.com/understandinges6/read/
 https://github.com/lukehoban/es6features/blob/master/README.md
 https://developer.mozilla.org/en/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla
+http://www.slideshare.net/domenicdenicola/es6-the-awesome-parts
+https://github.com/lukehoban/es6features
 
 # JavaScript - TypeScript
 http://www.typescriptlang.org/
@@ -353,6 +686,11 @@ http://jeffreysambells.com/2010/06/22/ios-wireless-app-distribution
 https://github.com/bitstadium/HockeyKit/wiki
 
 # iOS Objective C 
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+
+http://cocoadevcentral.com/d/learn_objectivec/
+
+http://code.tutsplus.com/series/objective-c-succinctly--mobile-21964
 https://developer.apple.com/library/mac/releasenotes/ObjectiveC/ModernizationObjC/AdoptingModernObjective-C/AdoptingModernObjective-C.html
 http://nshipster.com/object-subscripting/
 http://nshipster.com/c-storage-classes/
@@ -390,6 +728,12 @@ http://www.teehanlax.com/blog/krush-ios-architecture/
 responder chain - https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/event_delivery_responder_chain/event_delivery_responder_chain.html
 
 # iOS UIKit
+https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/ImplementingaContainerViewController.html
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOBasics.html
+https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Protocols/NSKeyValueObserving_Protocol/
+
+http://nshipster.com/key-value-observing/
+
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#//apple_ref/doc/uid/TP40006955
 https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html
 https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514
@@ -451,6 +795,7 @@ https://docs.python.org/2/whatsnew/2.5.html?highlight=__enter__
 https://samarthbhargav.wordpress.com/tag/python/
 
 # Python Training 
+http://docs.python-guide.org/en/latest/
 http://www.learnpython.org/
 http://www.codecademy.com/courses/python-beginner-en-KAgt5/0/1?curriculum_id=4f89dab3d788890003000096
 http://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide
@@ -527,10 +872,6 @@ https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/vectors/v/rea
 http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
 http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
 
-# movies to see
-http://blogs.haaretz.co.il/itamarzohar/329/
-http://blogs.haaretz.co.il/netalexander/2396/
-http://www.ynet.co.il/articles/0,7340,L-4607538,00.html
 
 # stats
 http://swirlstats.com/
@@ -554,7 +895,9 @@ http://www.cprogramming.com/tutorial.html
 # Go Lang
 http://www.go.cd/documentation/user/current/
 
-architecture:
+# Architecture
+medium tech stack - https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492#.zagv9ggs5
+
 http://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html
 http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html
 Facebook Stack: http://royal.pingdom.com/2010/06/18/the-software-behind-facebook/
@@ -563,7 +906,14 @@ Cassandra" https://www.facebook.com/note.php?note_id=24413138919
 facebook release engineering: https://www.youtube.com/watch?v=Nffzkkdq7GM
 facebook ios architecture: http://www.infoq.com/presentations/facebook-ios-architecture
 
-API:
+# Software Design
+https://en.wikipedia.org/wiki/Reentrancy_(computing)
+http://martinfowler.com/ieeeSoftware/coupling.pdf
+
+# Analytics
+https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
+
+# API:
 quip api reference: https://quip.com/api/reference
 
 graphite:
@@ -573,8 +923,12 @@ https://github.com/graphite-project/carbon
 https://github.com/graphite-project/graphite-web
 
 # iOS Swift:
+https://blog.growth.supply/from-zero-to-swift-in-30-days-8ad97b630e00
 http://swiftdoc.org/
 https://developer.apple.com/swift/resources/
+http://romain.goyet.com/articles/running_swift_code_on_android/
+
+https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf
 
 https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html#//apple_ref/doc/uid/TP40014097-CH7-ID285
 
@@ -590,6 +944,7 @@ http://nsbliss.com/objective-c-is-still-c-the-race-belongs-to-the-swift/
 http://tech.ustwo.com/2014/10/20/designing-adaptive-layouts-for-iphone-6-plus/
 http://tech.ustwo.com/2015/02/19/our-first-swift-project/
 
+https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html
 
 http://www.xcelme.com/latest-videos/
 http://www.aidanf.net/posts/an-introduction-to-swift-for-ruby-developers?utm_source=rubyweekly&utm_medium=email
@@ -617,15 +972,28 @@ http://www.objc.io/issue-16/swift-functions.html
 http://www.objc.io/issue-16/swift-classes-vs-structs.html
 http://www.objc.io/issue-16/power-of-swift.html
 
-mantle:
+https://roadfiresoftware.com/learn-swift/
+https://developer.apple.com/swift/blog/?id=25
+https://developer.apple.com/swift/
+http://owensd.io/2015/06/09/swift-v2-error-handling-revisit.html
+http://owensd.io/2015/06/17/protocol-oriented-programming.html
+https://developer.apple.com/swift/blog/?id=29
+https://developer.apple.com/library/prerelease/mac/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html#//apple_ref/doc/uid/TP40014097-CH20-XID_98
+https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82
+https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Inheritance.html#//apple_ref/doc/uid/TP40014097-CH17-XID_251
+http://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed
+
+
+# iOS Mantle
 https://github.com/Mantle/Mantle
 http://horseshoe7.wordpress.com/2013/05/26/hands-on-with-the-mantle-model-framework/
 
-docker:
+# Docker
 https://www.youtube.com/watch?v=Q5POuMHxW-0
 https://www.docker.com/tryit/
 
-others:
+# other
 http://totems.co/blog/machine-learning-nodejs-gender-instagram/
 http://archive.org/search.php?query=(collection:classicpcgames%20OR%20mediatype:classicpcgames)%20AND%20-mediatype:collection%20AND%20year:1988
 http://ecorner.stanford.edu/podcasts.html
@@ -681,6 +1049,19 @@ http://premium.wpmudev.org/manuals/wpmu-manual-2/changing-themes-sitewide
 http://premium.wpmudev.org/blog/ultimate-guide-multisite/
 https://wordpress.org/plugins/wordpress-mu-domain-mapping/
 
+# Basic Electronics
+http://www.instructables.com/id/Basic-Electronics/
+https://www.clear.rice.edu/elec201/Book/basic_elec.html
+http://www.electronics-tutorials.ws/
+http://101science.com/Radio.htm
+
+# TDD
+http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+http://david.heinemeierhansson.com/2014/test-induced-design-damage.html
+https://www.youtube.com/watch?v=z9quxZsLcfo
+https://www.youtube.com/watch?v=JoTB2mcjU7w
+https://www.youtube.com/watch?v=YNw4baDz6WA
+http://martinfowler.com/articles/is-tdd-dead/
 
 # blogs
 http://www.jasonshen.com/
@@ -693,3 +1074,23 @@ http://commandshift.co.uk/blog/2014/01/02/nice-web-services/
 http://www.friday.com/bbum/
 http://www.cocoawithlove.com/
 https://www.mikeash.com/pyblog/
+
+# movies to see
+http://blogs.haaretz.co.il/itamarzohar/329/
+http://blogs.haaretz.co.il/netalexander/2396/
+http://www.ynet.co.il/articles/0,7340,L-4607538,00.html
+
+# Avi Ofer
+http://ha-pinkas.co.il/?p=19914
+
+# Games
+https://www.ubisoft.com/en-GB/game/rayman-legends/
+https://www.ubisoft.com/en-GB/game/grow-home/
+https://itunes.apple.com/us/app/flurf-free/id875493756?mt=8&ign-mpt=uo%3D4
+https://itunes.apple.com/us/app/spring-ninja/id963980545?mt=8
+
+# HTML => Markdown
+* https://github.com/domchristie/to-markdown
+* http://pandoc.org/
+* https://github.com/aaronsw/html2text
+

@@ -49,6 +49,8 @@
 
 [RubyMonk](http://rubymonk.com)
 
+[The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+
 [Learn Python The Hard Way](http://learnpythonthehardway.org/)
 
 [C Learn C The Hard Way](http://c.learncodethehardway.org/book/)
