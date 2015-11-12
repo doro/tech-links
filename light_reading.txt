@@ -1,5 +1,20 @@
 # November 2015
 
+https://medium.com/@dhh/reconsider-41adf356857f
+https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-rejects-80-of-software-engineer-applicants-4e2a4d255f58
+
+https://github.com/jagregory/abrash-zen-of-asm/tree/master/src
+
+http://eranvered.com/blog/
+http://www.sysdig.org/
+https://www.youtube.com/watch?v=inftqUOLFaM
+
+http://www.ioscookies.com/
+
+# 43 things
+http://www.mchabib.com/43things/usability.html
+https://dayzeroproject.com/feature/41/worlds-most-popular-goals-from-43-things
+
 # Career - Developer Ladder
 http://engineering.chartbeat.com/2015/06/05/engineering-ladders/
 https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk/edit
@@ -9,7 +24,7 @@ PEP 8 - https://www.python.org/dev/peps/pep-0008/
 Beyond PEP 8 - https://www.youtube.com/watch?t=299&v=wf-BqAjZb8M
 
 https://developer.apple.com/swift/blog/?id=25
-
+https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
 https://github.com/cognitect/transit-format
 https://keepwomen.com/static_pages/checklist_tool
 http://romain.goyet.com/articles/running_swift_code_on_android/
@@ -134,6 +149,8 @@ The Slack Desktop apps are built using diverse technologies such as Electron, io
 
 https://hbr.org/2015/08/productivity-is-soaring-at-top-firms-and-sluggish-everywhere-else
 http://jordan-wright.com/blog/2015/09/30/how-to-download-a-list-of-all-registered-domain-names/
+
+https://apphub.io/
 
 # async
 http://tavendo.com/blog/post/going-asynchronous-from-flask-to-twisted-klein/
@@ -503,6 +520,7 @@ https://github.com/EverythingMe/redash
 https://sensuapp.org/
 c, objc, java - http://fbinfer.com/
 python repl - https://github.com/jonathanslenders/ptpython/
+https://github.com/nvie/pip-tools
 
 # indie web
 http://indiewebify.me/
