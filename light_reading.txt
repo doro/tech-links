@@ -1,9 +1,26 @@
-2015TheRoitmans
-
-feature/104431254-DR-post-checkout-message
-feature/<story #>-<coder initials>-<story name>
-
 # November 2015
+
+# Career - Developer Ladder
+http://engineering.chartbeat.com/2015/06/05/engineering-ladders/
+https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk/edit
+https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0
+
+PEP 8 - https://www.python.org/dev/peps/pep-0008/
+Beyond PEP 8 - https://www.youtube.com/watch?t=299&v=wf-BqAjZb8M
+
+https://developer.apple.com/swift/blog/?id=25
+
+https://github.com/cognitect/transit-format
+https://keepwomen.com/static_pages/checklist_tool
+http://romain.goyet.com/articles/running_swift_code_on_android/
+http://www.mattermost.org/open-source-slack-alternative-reaches-1-0/
+https://www.dataquest.io/blog/python-vs-r/
+https://codeascraft.com/2013/06/11/introducing-kale/
+
+http://radek.io/2015/10/20/httpie/
+
+https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/
+
 http://www.themarker.com/markets/marketmoney/1.2754060
 http://www.haaretz.co.il/blogs/amirascher/1.2759328
 http://www.haaretz.co.il/einayim/1.2763906
@@ -484,8 +501,8 @@ http://www.healthyplace.com/blogs/adultadhd/2010/04/adhd-how-do-you-pick-one-pro
 https://pusher.com/
 https://github.com/EverythingMe/redash
 https://sensuapp.org/
-
-
+c, objc, java - http://fbinfer.com/
+python repl - https://github.com/jonathanslenders/ptpython/
 
 # indie web
 http://indiewebify.me/
@@ -622,6 +639,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Obj
 # RedShift
 http://docs.aws.amazon.com/redshift/latest/dg/c_redshift_system_overview.html
 
+# Git
+https://robots.thoughtbot.com/autosquashing-git-commits
+
 # GitHub Pages / S3 SSL 
 https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it
 https://bryce.fisher-fleig.org/blog/setting-up-ssl-on-aws-cloudfront-and-s3/
@@ -707,6 +727,11 @@ https://www.youtube.com/watch?v=AK3sBFUGzdo
 http://www.raywenderlich.com/87300/apple-pay-tutorial
 http://michele.io/the-project-file-part-1
 
+# iOS Objective C  - dependency injection
+https://corner.squareup.com/2015/06/dependency-injection-in-objc.html
+https://www.objc.io/issues/15-testing/dependency-injection/#forms-of-dependency-injection
+
+
 # iOS animation
 http://ronnqvi.st/controlling-animation-timing/
 http://www.slideshare.net/zoff83/building-animated-ui-with-core-animation
@@ -782,6 +807,8 @@ https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-ob
 
 # python
 http://pgbovine.net/cpython-internals.htm - CPython internals: A ten-hour codewalk through the Python interpreter source code
+
+python 3.5 types: https://www.youtube.com/watch?v=2wDvzy6Hgxg
 
 https://docs.python.org/3/howto/functional.html
 http://effbot.org/zone/python-with-statement.htm
@@ -922,7 +949,12 @@ https://github.com/graphite-project/whisper
 https://github.com/graphite-project/carbon
 https://github.com/graphite-project/graphite-web
 
+# iOS Swift Swift Education
+http://swifteducation.github.io/
+https://github.com/SwiftEducation/presentations
+
 # iOS Swift:
+
 https://blog.growth.supply/from-zero-to-swift-in-30-days-8ad97b630e00
 http://swiftdoc.org/
 https://developer.apple.com/swift/resources/
