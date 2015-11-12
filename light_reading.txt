@@ -5,6 +5,23 @@ https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-r
 
 https://github.com/jagregory/abrash-zen-of-asm/tree/master/src
 
+http://digitalleaves.com/blog/2015/05/demystifying-retain-cycles-in-arc/
+https://github.com/facebook/pathpicker/
+https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads
+https://yourbunnywrote.org/2015/04/19/google-cloud/
+http://www.infoq.com/presentations/Simple-Made-Easy
+https://www.cbinsights.com/blog/private-company-financing-data-sources-cruncher/
+https://blog.wearewizards.io/how-to-build-a-simple-imageprimary-colour-similarity-database
+http://giantrobots.fm/129
+https://realm.io/news/modular-ios-apps/
+
+http://tech.forter.com/comparing-message-queue-architectures-on-aws/
+http://jon.smajda.com/2014/10/20/mailbox-and-facebook-app-links/
+http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/
+
+https://www.youtube.com/watch?v=gJFG04Sy6NY#t=119
+
+
 http://eranvered.com/blog/
 http://www.sysdig.org/
 https://www.youtube.com/watch?v=inftqUOLFaM
@@ -521,8 +538,11 @@ https://sensuapp.org/
 c, objc, java - http://fbinfer.com/
 python repl - https://github.com/jonathanslenders/ptpython/
 https://github.com/nvie/pip-tools
-
+https://sensuapp.org/
 https://github.com/facebook/chisel
+http://firstaidgit.io/
+https://github.com/johnno1962/injectionforxcode
+
 
 # indie web
 http://indiewebify.me/
@@ -826,6 +846,9 @@ https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-ob
 
 
 # python
+
+Python Resources: http://www.fullstackpython.com/best-python-resources.html
+
 http://pgbovine.net/cpython-internals.htm - CPython internals: A ten-hour codewalk through the Python interpreter source code
 
 python 3.5 types: https://www.youtube.com/watch?v=2wDvzy6Hgxg
