@@ -522,6 +522,8 @@ c, objc, java - http://fbinfer.com/
 python repl - https://github.com/jonathanslenders/ptpython/
 https://github.com/nvie/pip-tools
 
+https://github.com/facebook/chisel
+
 # indie web
 http://indiewebify.me/
 https://indiewebcamp.com/
